@@ -1,5 +1,5 @@
 ## wordle-javascript
-A Game of Wordle with the benefit of 2x API from RapidAPI
+A Game of Wordle with ExpressJS, axios and APIs from RapidAPI
 
 
 ### MIT Licence
